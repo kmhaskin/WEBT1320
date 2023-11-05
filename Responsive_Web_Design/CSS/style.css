@@ -59,7 +59,7 @@ main{
 
 .col{
     padding: 10px;
-    border-top: 2px soild black;
+    border-top: 2px solid black;
 }
 
 footer{
@@ -110,7 +110,7 @@ tr,td{
         width:150px;
         margin: 0 5px;
 border-radius: 10px;
-border: 2px soild dimgray;
+border: 2px solid dimgray;
     }
 main{
     display: flex;
